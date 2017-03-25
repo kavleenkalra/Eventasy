@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-25.0.0_64b8b13a661a228f6feaa8d118557c63bf4d1e38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-10.0.1_f7bca88b00dc4eccb49a04e119bba2ed77dd6908.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-maps-10.0.1_a580fa96b19699378e8a82ec5f528001b3cf36be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-25.0.0_3391d8fe2ccf5932751f4d714bafae4a8861c58a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-25.0.0_0ae46e9013f2eb29706dc4aae42c4afbe54dded6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakalra\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\pre-dexed\release\retrofit-2.0.2_2a193d62a0ae097dde7a130982ca4635c6cb5942.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-gass-10.0.1_0cec22c22b732b1a73eaddf7d52036bb1e6d0cb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-25.0.0_36a4a57b1dfbdeff303c5c9513a22c3daa2276a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\pre-dexed\release\com.android.support-transition-25.0.0_592977953b06562bc06a845517f7d491a9cf498b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-ads-lite-10.0.1_72b39c5da26e3efdb52e8b7c414f9e76d807a6ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-25.0.0_759e010ad18d8ab02b2ead12f540d8a91ce73de1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-25.0.0_9e13bff34152378f1f44019dbf5d6434bd24058c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\pre-dexed\release\internal_impl-25.0.0_71bf377601376fbbc6afeed5a8900b83c79463ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-tasks-10.0.1_9107769ec618a7f2c987aee90636d878561017fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakalra\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\pre-dexed\release\picasso-2.5.2_d94f99eaf65f87af83adbaa9f81f0a470e3b44f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\pre-dexed\release\com.android.support-cardview-v7-25.0.0_7eb6af0b35e207f61d4dc943a63d33ec8ea02a36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-25.0.0_5272603aa2968ea87c42c2508febcfbcaeea6a8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-clearcut-10.0.1_19327ace004883c50893c9dc7ddf1b0e4574df5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakalra\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\pre-dexed\release\converter-gson-2.0.2_6e73c6dd9a14f54f85b50ff92457da09edf03c4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-25.0.0_8a493004424dab3e4a57d13b3bb2cebd2bfbf2f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakalra\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\pre-dexed\release\support-annotations-25.0.0_426df4d7a25a31ff8497769ff44922acbde8b61c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\pre-dexed\release\com.android.support-design-25.0.0_722d1923508e707e2a1094927db7433863359e91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakalra\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\pre-dexed\release\okio-1.6.0_45bb6f4d7c22f121102339901d8234af92ad0cc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-ads-10.0.1_d0a1fb737cde6d1afdeaaa3a871fc6fb1aa0cfc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakalra\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\pre-dexed\release\okhttp-3.2.0_148057503d4c63efb4b3d9533de4b194d4451580.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\pre-dexed\release\internal_impl-25.0.0_317c90c1608fd656b5031af4301190c7ffb23ded.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-25.0.0_ea77d9f956b1e124883800b75f237b8345752270.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\pre-dexed\release\internal_impl-25.0.0_32e6aa948767686db4a449fb0e525d01dbec0481.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakalra\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\pre-dexed\release\gson-2.6.2_f0da07c00e2a9b31dc46e00598119804efa14e06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\pre-dexed\release\internal_impl-25.0.0_58fb4d8b08fa4b5f4e713a705f632eaf353af249.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-25.0.0_da19caf94e2ef25bd1e82ddf95b297a4e6dd51b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\pre-dexed\release\internal_impl-25.0.0_7504d80de6a4f7274edfb56f0d660d5b56749b7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\kakalra\AndroidStudioProjects\Eventasy\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-base-10.0.1_c5505f5d2da7fb1072dfa3efdcec3e52e7e74953.jar" />
+    </item>
+
+</items>

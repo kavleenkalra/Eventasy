@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\kakalra\\AndroidStudioProjects\\Eventasy\\app\\build\\intermediates\\res\\merged\\release\\xml\\widget_favourite.xml",
+        "source": "C:\\Users\\kakalra\\AndroidStudioProjects\\Eventasy\\app\\src\\main\\res\\xml\\widget_favourite.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakalra\\AndroidStudioProjects\\Eventasy\\app\\build\\intermediates\\res\\merged\\release\\xml\\pref_general.xml",
+        "source": "C:\\Users\\kakalra\\AndroidStudioProjects\\Eventasy\\app\\src\\main\\res\\xml\\pref_general.xml"
+    },
+    {
+        "merged": "C:\\Users\\kakalra\\AndroidStudioProjects\\Eventasy\\app\\build\\intermediates\\res\\merged\\release\\xml\\searchable.xml",
+        "source": "C:\\Users\\kakalra\\AndroidStudioProjects\\Eventasy\\app\\src\\main\\res\\xml\\searchable.xml"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\kakalra\\AndroidStudioProjects\\Eventasy\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi\\ic_favorite_border_white_36dp.png",
+        "source": "C:\\Users\\kakalra\\AndroidStudioProjects\\Eventasy\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_favorite_border_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\kakalra\\AndroidStudioProjects\\Eventasy\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi\\ic_favorite_black_24dp.png",
+        "source": "C:\\Users\\kakalra\\AndroidStudioProjects\\Eventasy\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_favorite_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\kakalra\\AndroidStudioProjects\\Eventasy\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi\\ic_star_black_36dp.png",
+        "source": "C:\\Users\\kakalra\\AndroidStudioProjects\\Eventasy\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\kakalra\\AndroidStudioProjects\\Eventasy\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi\\ic_favorite_red_36dp.png",
+        "source": "C:\\Users\\kakalra\\AndroidStudioProjects\\Eventasy\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_favorite_red_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\kakalra\\AndroidStudioProjects\\Eventasy\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi\\ic_place_black_36dp.png",
+        "source": "C:\\Users\\kakalra\\AndroidStudioProjects\\Eventasy\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_place_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\kakalra\\AndroidStudioProjects\\Eventasy\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi\\ic_settings_black_36dp.png",
+        "source": "C:\\Users\\kakalra\\AndroidStudioProjects\\Eventasy\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_settings_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\kakalra\\AndroidStudioProjects\\Eventasy\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi\\ic_feedback_black_36dp.png",
+        "source": "C:\\Users\\kakalra\\AndroidStudioProjects\\Eventasy\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_feedback_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\kakalra\\AndroidStudioProjects\\Eventasy\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi\\ic_search_black_36dp.png",
+        "source": "C:\\Users\\kakalra\\AndroidStudioProjects\\Eventasy\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_search_black_36dp.png"
+    }
+]
